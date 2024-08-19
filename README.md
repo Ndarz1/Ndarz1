@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananda Rizki N
-- 👀 I’m interested in Frontend Web Developer
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Javascript, C++, and PHP
 - 🏫 I'm study on Ahmad Dahlan University
 
